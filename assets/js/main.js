@@ -56,8 +56,6 @@ function getNivelImc(imc){
     
 }
 
-
-
 function criaP(){
     const p = document.createElement('p');
     return p;
@@ -80,3 +78,4 @@ function setResultado(msg, isValid ){
 
 }
 
+criaP('oiiiii')

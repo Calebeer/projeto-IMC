@@ -17,7 +17,7 @@ body {
   background-attachment: fixed;
   background-repeat: repeat-y;
   background-position: center center;
-  height: 100vh;
+  height: 91vh;
   font-family: 'Open sans', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em;
@@ -29,16 +29,19 @@ body {
   background: #fff;
   padding: 20px;
   border-radius: 10px;
+  
 }
 
 h1{
   text-align: center;
+  
 }
 
 form input, form label, form button {
   display: block;
   width: 100%;
   margin-bottom: 10px;
+  
 }
 
 form input {
