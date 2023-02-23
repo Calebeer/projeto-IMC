@@ -78,4 +78,3 @@ function setResultado(msg, isValid ){
 
 }
 
-criaP('oiiiii')
