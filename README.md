@@ -1,4 +1,4 @@
-# projeto-IMC
+# Projeto-IMC
 Feito em HTML, CSS e JS.
 Da uma olhada 😉
 
